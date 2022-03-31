@@ -8,10 +8,11 @@ Web Front-end Engineer.
 - Blog: https://shimotsu.netlify.app/
 - Tech Blog: https://shimotsu.hatenablog.com/
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
-  <img width="450px" src="htztps://github-readme-stats.vercel.app/api?username=shimotsu4431&hide=issues&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&hide_border=true" alt="shimotsu's GitHub Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Languages">
-  <img width="318px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimotsu4431&layout=compact&theme=radical&hide_border=true"
- alt="Most Used Languages" />
-</a>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=shimotsu4431&count_private=true&show_icons=true&theme=react" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimotsu4431&theme=react" />
+  </a>
+</div>
