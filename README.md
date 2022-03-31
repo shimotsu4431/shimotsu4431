@@ -10,9 +10,9 @@ Web Front-end Engineer.
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=shimotsu4431&count_private=true&show_icons=true&theme=react" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=shimotsu4431&count_private=true&show_icons=true&theme=nord" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimotsu4431&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimotsu4431&theme=nord" />
   </a>
 </div>
