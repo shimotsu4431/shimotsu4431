@@ -1,4 +1,4 @@
-# I'm shimotsu!
+# I'm shimotsu
 
 Web Front-end Engineer.
 
