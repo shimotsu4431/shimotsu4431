@@ -1,4 +1,4 @@
-# Hi there
+# Hi there!
 
 I am a Web Front-end Engineer living in Japan.
 
